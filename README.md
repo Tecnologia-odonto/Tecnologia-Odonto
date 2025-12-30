@@ -38,9 +38,10 @@ e construir um ecossistema digital sólido para o crescimento sustentável da Od
 ![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tecnologia-odonto&theme=tokyonight)
 
 ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tecnologia-odonto&theme=tokyonight)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tecnologia-odonto&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tecnologia-odonto&theme=tokyonight)
 
 </div>
+
 
 
 ---
