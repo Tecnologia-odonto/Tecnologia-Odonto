@@ -120,7 +120,7 @@ Mesmo sendo um ecossistema interno, valorizamos:
 Somos uma empresa de saúde odontológica com atuação no Ceará,  
 unindo atendimento humano e tecnologia.
 
-🌐 **www.odontoart.com.br**
+🌐 **odontoart.com**
 
 ---
 
